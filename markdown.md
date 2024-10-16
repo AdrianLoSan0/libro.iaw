@@ -16,3 +16,11 @@
 
 [Sony España](https://www.sony.es/)
 
+[README.md](https://github.com/AdrianLoSan0/libro.iaw/blob/main/README.md)
+
+![Riyadh Air Metropolitano](https://www.civitatis.com/f/espana/madrid/tour-civitas-metropolitano-589x392.jpg)
+
+| Equipo | Capitán |
+| ----------- | ----------- |
+| Atleti | Koke |
+| Madrid | Carvajal |
